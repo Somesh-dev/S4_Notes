@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572919061682",
+    "firebase_url": "https://blog-a8eed.firebaseio.com",
+    "project_id": "blog-a8eed",
+    "storage_bucket": "blog-a8eed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572919061682:android:0ebbb64bbedf00ba077dab",
+        "android_client_info": {
+          "package_name": "com.teams4.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572919061682-bih96akkeqdnkht4dh1sl76k7vi81kq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teams4.blog",
+            "certificate_hash": "46d6295cb54f333c8c500dbb602f02057f220644"
+          }
+        },
+        {
+          "client_id": "572919061682-5mlvadbtfdkf9jma3c8nr8bldn2dvr8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5MpVsPq_wVVCNWwYKlWcUuH5Nr2bnprg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572919061682-5mlvadbtfdkf9jma3c8nr8bldn2dvr8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
